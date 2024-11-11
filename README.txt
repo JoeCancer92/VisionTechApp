@@ -37,4 +37,3 @@ python login_facial.py
 
 
 
-Este contenido actualizado elimina la parte relacionada con la instalación de `requirements.txt`, ya que no funcionó como se esperaba para instalar las dependencias. Ahora la única forma indicada es la instalación manual. Puedes copiar y pegar este contenido en tu archivo `README.md`.
